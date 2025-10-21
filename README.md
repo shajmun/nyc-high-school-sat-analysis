@@ -1,4 +1,4 @@
-# NYC Public Schools SAT Performance Analysis �
+# NYC Public Schools SAT Performance Analysis
 
 
 ## Project Overview
