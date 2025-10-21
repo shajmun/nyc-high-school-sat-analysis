@@ -49,5 +49,3 @@ For my analysis, I used `schools.csv`, which contains SAT performance data for N
 - **Standard Deviation**: 230.29
 
 **Interpretation**: I found that Manhattan shows the highest variability in SAT performance, indicating a wider range of educational outcomes. This could reflect the diverse socioeconomic landscape and the presence of both highly selective specialized schools and schools serving disadvantaged communities.
-
-⭐ If you found this analysis interesting, please consider starring this repository!
