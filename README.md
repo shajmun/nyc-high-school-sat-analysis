@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-In this project, I analyzed SAT performance data from New York City public schools to uncover key insights about educational achievement across the five boroughs. Using Python and pandas, I explored which schools excel in mathematics, identified top-performing institutions, and examined variability in test scores across different regions.
+This project is part of Associate Data Scienctist Track by Datacamp. In this project, I analyzed SAT performance data from New York City public schools to uncover key insights about educational achievement across the five boroughs. Using Python and pandas, I explored which schools excel in mathematics, identified top-performing institutions, and examined variability in test scores across different regions.
 
 ## Dataset
 
